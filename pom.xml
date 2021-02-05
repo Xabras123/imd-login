@@ -14,7 +14,7 @@
 	<name>imd-login</name>
 	<description>Microservicio crear y obtener avances de un projecto</description>
 	<properties>
-		<java.version>15</java.version>
+		<java.version>14</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
